@@ -1,0 +1,16 @@
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.exe
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.deps.json
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.runtimeconfig.json
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.runtimeconfig.dev.json
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.dll
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\ref\EvoluçãoPacientes.dll
+C:\workspace\EvoluçãoPacientes\bin\Debug\net5.0\EvoluçãoPacientes.pdb
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.csproj.AssemblyReference.cache
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.AssemblyInfoInputs.cache
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.AssemblyInfo.cs
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.csproj.CoreCompileInputs.cache
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.dll
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\ref\EvoluçãoPacientes.dll
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.pdb
+C:\workspace\EvoluçãoPacientes\obj\Debug\net5.0\EvoluçãoPacientes.genruntimeconfig.cache
